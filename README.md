@@ -29,13 +29,13 @@ notebook itself to Hugging Face.
 
 ## Usage
 
-1**Clone the repository:**
+1. **Clone the repository:**
 
 ```bash
 git clone https://github.com/justaddcoffee/embed_pubmed.git
 ```
 
-2**Run the notebook:**
+2. **Run the notebook:**
 
 Open the notebook and run each cell sequentially. The notebook performs the following tasks:
 
